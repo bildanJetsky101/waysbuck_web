@@ -1,0 +1,35 @@
+.container-add-product {
+    height: 100vh;
+}
+
+.container-add-toping {
+    height: 100vh;
+}
+
+.form-toping {
+    width: 75%;
+    margin-left: 100px;
+}
+
+.form-product {
+    width: 75%;
+    margin-left: 100px;
+}
+
+.mb-10 {
+    border: 1px red solid !important;
+    border-radius: 6px !important;
+}
+
+.btn-add-product {
+    width: 85%;
+    background-color: #BD0707 !important;
+    border: none !important;
+}
+
+.table-transaction {
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
